@@ -1,0 +1,19 @@
+.rodape {
+    background-color: var(--preto);
+    display: flex;
+    justify-content: center;
+
+    /* Para o rodapé ficar fixo no pé da pagina
+    
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;*/
+}
+
+.rodape h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--branco);
+}
